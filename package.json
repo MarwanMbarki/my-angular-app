@@ -1,6 +1,6 @@
 {
   "name": "my-firt-angular-app",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
