@@ -1,4 +1,4 @@
-# Angular 4 SartApp.
+# Angular 4 Sart_App.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.1.
 
